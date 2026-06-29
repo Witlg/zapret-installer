@@ -8,7 +8,7 @@
 
 ##  Скачать
 
-**[Скачать установщик](https://github.com/yourusername/zapret-installer/releases/latest/download/setup.exe)**
+**[Скачать установщик](https://github.com/Witlg/zapret-installer/releases/download/v1.0.0/setup.exe)**
 
 ## Особенности
 
